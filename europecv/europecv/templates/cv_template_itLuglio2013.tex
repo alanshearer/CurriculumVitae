@@ -1,0 +1,310 @@
+\documentclass[totpages,helvetica,openbib,italian]{europecv}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage[a4paper,top=1.27cm,left=1cm,right=1cm,bottom=2cm]{geometry}
+\usepackage[italian]{babel}
+\usepackage{bibentry}
+\usepackage{url}
+\usepackage{lipsum,environ}
+
+\newsavebox\recipebox
+\newlength\recipebreaklength
+\setlength\recipebreaklength{0.4\textheight}
+\newcommand\typesetrecipe[1]{%
+  \par\noindent\rule{\linewidth}{1ex}\par
+  \BODY
+  \par\noindent\rule{\linewidth}{1ex}\par
+}
+\NewEnviron{recipe}{%
+  \savebox{\recipebox}{\parbox{\linewidth}{%
+    \typesetrecipe{\BODY}%
+  }}%
+  \ifdim
+      \dimexpr\ht\recipebox+\dp\recipebox\relax 
+      > \recipebreaklength
+    \typesetrecipe{\BODY}%
+  \else
+    \par\noindent\usebox\recipebox
+  \fi
+  \bigskip
+}
+\renewcommand{\ttdefault}{phv} % Uses Helvetica instead of fixed width font
+
+\ecvname{Bencivenga Enrico}
+%\ecvfootername{Nome/i Cognome/i}
+\ecvaddress{Via Cucca 106, 80031 Brusciano (Napoli)}
+\ecvtelephone[]{+393289196064}
+%\ecvfax{Facoltativo}
+\ecvemail{\url{enrico.bencivenga@hotmail.it}}
+\ecvnationality{Italiana}
+\ecvdateofbirth{13/04/1983}
+\ecvgender{Maschile}
+%\ecvpicture[width=3cm]{mypicture}
+\ecvfootnote{Per ulteriori informazioni: \url{http://europass.cedefop.eu.int}\\
+\textcopyright~European Communities, 2003.}
+
+\begin{document}
+\selectlanguage{italian}
+
+
+\begin{europecv}
+\ecvpersonalinfo[20pt]
+
+
+\ecvsection{Istruzione e formazione}
+
+\ecvitem{Date}{Aprile 2012 - Aprile 2013}
+\ecvitem{Nome e tipo d'istituto di istruzione o formazione}{Ancitel S.p.A., Via Vicinale Santa Maria del Pianto 80143 Napoli }
+\ecvitem{Certificato o diploma ottenuto}{Tecnico di ricerca sui servizi della PA. Progetto SMART (Services and Meta-services for smART eGovernment)}
+\ecvitem{Principali materie/Competenze professionali apprese}{\begin{minipage}[t]{1\linewidth}
+Strumenti di sviluppo di architetture SOA e testing :
+\begin{itemize}
+\vspace{-3mm}\item[]    Scrittura del codice: Eclipse
+\vspace{-3mm}\item[]    Gestione codice sorgente: SVN e GIT
+\vspace{-3mm}\item[]    Gestione delle issue: Mantis, Bugzilla e Request Tracker
+\vspace{-3mm}\item[]    Supporto allo sviluppo: JUnit, DBUnit
+\vspace{-3mm}\item[]    Testing: Hudson, Selenium, HTTPerf
+\vspace{-3mm}\item[]    Linguaggi XML e XSD
+\vspace{-3mm}\item[]    Formalismo WSDL
+\vspace{-3mm}\item[]    Protocollo SOAP
+\vspace{-3mm}\item[]    Web services: progettazione, implementazione, consumo
+\vspace{-3mm}\item[]    Sistemi RESTful
+    \end{itemize}
+
+Metodologie di sviluppo Agile : Scrum ed XP.\\
+\vspace{1mm}
+
+Identità Digitale :
+\begin{itemize}
+
+\vspace{-3mm}\item[]   Sistemi a directory: LDAP, Active Directory;
+\vspace{-3mm}\item[]   Single Sign On in ambito intranet ed extranet: OATH, OpenID, SAML 2.0;
+\vspace{-3mm}\item[]   Sistemi di autorizzazione e di delega: XACML, OAuth 2.0;
+\vspace{-3mm}\item[]   Federazioni di identità in Italia: People/ICAR, FedERa.
+\end{itemize}
+
+Cloud computing:
+\begin{itemize}
+   \vspace{-3mm}\item[]Architetture.
+   \vspace{-3mm}\item[]Dati: sistemi data-intensive (come Apache Hadoop).
+   \vspace{-3mm}\item[]Applicazioni : Google App Engine, Microsoft Azure, Red Hat OpenShift.
+   \end{itemize}
+
+Modellazione:
+\begin{itemize}
+
+ \vspace{-3mm}\item[]   Requisiti software e casi d’uso, Modello Entità-Relazione, Linguaggio UML,
+\vspace{-3mm}\item[]    Modello dati relazionale
+    \end{itemize}
+Redazione di documentazione tecnica: Doxygen.\\
+\vspace{1mm}
+
+Programmazione Java e ad oggetti.\\
+\vspace{1mm}
+
+Governo elettronico e CAD (Codice dell’Amministrazione Digitale):
+\begin{itemize}
+
+\vspace{-3mm}\item[] Servizi e procedimenti della PA (Centrale e Locale).
+\vspace{-3mm}\item[]    Struttura della PA (Centrale e Locale).
+\end{itemize}
+  Sistemi territoriali:
+  \begin{itemize}
+
+  \vspace{-3mm}\item[]  Strumenti GIS per la catalogazione e gestione dei dati
+\vspace{-3mm}\item[]    Strumenti per uniformare i dati territoriali
+    ISPIRE ( metadati geografici)
+\vspace{-3mm}\item[]    Standard OGC ( per la condivisione dei dati)
+    Geonetwork (catalogo metadati)
+\vspace{-3mm}\item[]    Strumento "Repertorio Nazionale dei Dati Territoriali"
+\vspace{-3mm}\item[]    Web Server (Apache, linguaggio PHP)
+\vspace{-3mm}\item[]    Map Server
+\vspace{-3mm}\item[]    Geowebcache
+\vspace{-3mm}\item[]    GeoServer
+\vspace{-3mm}\item[]    API (Google) e interfacce di accesso (Visualizzatori web GIS).
+    \end{itemize}
+
+Semantic Web.
+\vspace{1mm}
+\vspace{1mm}
+
+iPhone Developer:
+\begin{itemize}
+
+\vspace{-3mm}\item[]    Conoscenza dei dispositivi iPhone, iPod Touch e iPad,
+\vspace{-3mm}\item[]    iOS technology layers: Core OS, Core Services, Media, Cocoa Touch
+ \vspace{-3mm}\item[]   Strumenti di sviluppo per la piattaforma iOS: Xcode, Objective C.
+    \end{itemize}
+Sviluppo applicazioni Android con Eclipse\\
+\vspace{1mm}
+
+Programmazione e gestione operativa dei Progetti di ricerca.\\
+\end{minipage}
+}
+
+
+\ecvitem{Date}{Settembre 2010 - Giugno 2011}
+\ecvitem{Nome e tipo d'istituto di istruzione o formazione}{
+\begin{minipage}[t]{1\linewidth}
+Università di Paderborn (Germania)\\
+ Faculty of Computer Science and Mathematics
+ \end{minipage}
+ }
+\ecvitem{Principali materie}{
+\vspace{-3mm}
+\begin{itemize}
+\vspace{-3mm}\item[]Model Driven Software Development;
+\vspace{-3mm}\item[] Web Engineering;
+\vspace{-3mm}\item[]Deductive Verification;
+\vspace{-3mm}\item[] Modelchecking;
+\vspace{-3mm}\item[] Swarm Intelligence.
+\end{itemize}}
+%\ecvitem{Livello nella classificazione nazionale o internazionale\footnote{Se pertinente.}}{\ldots}
+
+\ecvitem{Date}{2002 - oggi}
+\ecvitem{Nome e tipo d'istituto di istruzione o formazione}{
+\begin{minipage}[t]{1\linewidth}
+Università degli Studi di Napoli "Federico II"\\ Corso di Laurea in Ingegneria Informatica 
+\end{minipage}
+}
+\ecvitem{Certificato o diploma da ottenere}{Laurea in Ingegneria Informatica}
+\ecvitem{Principali materie}{
+\vspace{-3mm}
+\begin{itemize}
+\vspace{-3mm}\item[]Ingegneria del Software;
+\vspace{-3mm}\item[] Programmazione I;
+\vspace{-3mm}\item[] Programmazione II; 
+\vspace{-3mm}\item[]Tecnologie dei Sistemi di Automazione. \end{itemize}}
+
+\ecvsection{Capacit\`a e competenze professionali}
+
+\ecvmothertongue[30pt]{Italiano}
+\ecvitem{\large Altre lingue}{}
+\ecvlanguageheader{(*)}
+\ecvlanguage{Inglese}{\ecvCOne}{\ecvCOne}{\ecvCOne}{\ecvCOne}{\ecvCOne}
+\ecvlastlanguage{Tedesco}{\ecvBOne}{\ecvBOne}{\ecvBOne}{\ecvBOne}{\ecvBOne}
+\ecvlanguagefooter[10pt]{(*)}
+
+\ecvitem[10pt]{\large Capacit\`a e competenze sociali}{Ottime capacità sociali, sviluppate fin da piccolo, grazie alle attività sportive
+praticate (calcio, podismo, ciclismo) ed, in seguito, maturate durante il periodo
+Erasmus in Germania, in cui ho avuto l'occasione di relazionarmi con persone di diversi paesi e culture.}
+\ecvitem[10pt]{\large Capacit\`a e competenze organizzative}{Ottime capacità organizzative, maturate durante gli anni in cui ho allenato i
+ragazzi delle categorie Pulcini ed Esordienti a Brusciano (NA), in cui mi sono
+confrontato con la gestione del gruppo, dei rapporti con la società di
+appartenenza e con la Federazione.
+Per quanto riguarda l'Università, credo di aver avuto una buona maturazione
+durante i lavori di gruppo svolti per alcuni esami ed, infine, durante il periodo
+Erasmus, in cui ho fatto parte del progetto Safebots.}
+
+%\ecvitem[10pt]{\large Capacit\`a e competenze tecniche}{Descrivere tali competenze e indicare dove sono state acquisite. Facoltativo.}
+
+\ecvitem[10pt]{\large Capacit\`a e competenze informatiche}{\begin{minipage}[t]{1\linewidth}
+Ottima conoscenza dei sistemi operativi:
+\begin{itemize}
+\vspace{-3mm}\item[] Microsoft: Windows 98, ME, 2000, XP, 7;
+\vspace{-3mm}\item[] Apple: MacOS X Snow Leopard, Lion, Mountain Lion, Mavericks;
+\vspace{-3mm}\item[] Linux: Archlinux, RedHat, SuSE.
+\end{itemize}
+
+Ottima conoscenza delle piattaforme office:
+\begin{itemize}
+\vspace{-3mm}\item[]Microsoft Office 2003, 2007, 2010, 2013;
+\vspace{-3mm}\item[]OpenOffice;
+\vspace{-3mm}\item[]LibreOffice.
+\end{itemize}
+
+Ottima conoscenza dei browsers:
+\begin{itemize}
+\vspace{-3mm}\item[] Internet Explorer;
+\vspace{-3mm}\item[] Mozilla Firefox;
+\vspace{-3mm}\item[] Safari;
+\vspace{-3mm}\item[] Google Chrome.
+\end{itemize}
+
+Ottima conoscenza dei clients di posta elettronica:
+\begin{itemize}
+\vspace{-3mm}\item[]Outlook Express;
+\vspace{-3mm}\item[]Mozilla Thunderbird.
+\end{itemize}
+
+Ottima conoscenza dei software grafici:
+\begin{itemize}
+\vspace{-3mm}\item[] Adobe Photoshop;
+\vspace{-3mm}\item[]The Gimp.
+
+\end{itemize}
+
+Ottima conoscenza del software per la grafica vettoriale InkScape.\\
+\vspace{1mm}
+
+Ottima conoscenza dei software per il calcolo matematico:
+\begin{itemize}
+\vspace{-3mm}\item[]Matlab;
+\vspace{-3mm}\item[]Derive.
+\end{itemize}
+
+
+Ottima conoscenza delle piattaforme di sviluppo:
+\begin{itemize}
+\vspace{-3mm}\item[]Microsoft Visual Studio;
+\vspace{-3mm}\item[]Eclipse;
+\vspace{-3mm}\item[]NetBeans;
+\vspace{-3mm}\item[]XCode;
+\vspace{-3mm}\item[]Kdevelop;
+\vspace{-3mm}\item[]Monodevelop.
+\end{itemize}
+
+Ottima conoscenza dei linguaggi di programmazione:
+\begin{itemize}
+\vspace{-3mm}\item[]C\#;
+\vspace{-3mm}\item[]C++;
+\vspace{-3mm}\item[]Objective-C;
+\vspace{-3mm}\item[]Java;
+\vspace{-3mm}\item[]Php.
+\end{itemize}
+
+Buona conoscenza dei linguaggi di scripting:
+\begin{itemize}
+\vspace{-3mm}\item[]Python;
+\vspace{-3mm}\item[]Perl;
+\vspace{-3mm}\item[]Ruby.
+\end{itemize}
+
+Ottima conoscenza dei DBMS relazionali:
+\begin{itemize}
+\vspace{-3mm}\item[]Microsoft SQL Server 2005, 2008, 2010, 2012;
+\vspace{-3mm}\item[]MySQL 5.5, 5.6, 5.7, 6.0.
+\end{itemize}
+
+Ottima conoscenza del linguaggio di modellazione UML.\\
+\newline
+Ottima conoscenza del software di composizione tipografica Tex e del linguaggio di markup LaTex.
+
+\end{minipage}
+}
+\ecvitem[10pt]{\large Capacit\`a e competenze artistiche}{Ho studiato musica per alcuni anni suonando il clarinetto e, da autodidatta, il
+pianoforte.}
+%\ecvitem[10pt]{\large Altre capacit\`a e competenze}{Descrivere tali competenze e indicare dove sono state acquisite. Facoltativo.}
+\ecvitem{\large Patente}{Patente B}
+
+%\textsc{\ecvsection{Ulteriori informazioni}
+%\ecvitem[10pt]{}{Inserire qui ogni altra informazione utile, ad esempio persone di riferimento, referenze, etc\ldots Facoltativo.}
+%\bibliographystyle{plain}
+%\nobibliography{publications}
+%\ecvitem{}{\textbf{Pubblicazioni}}
+%\ecvitem{}{\bibentry{pub1}}
+%\ecvitem[10pt]{}{\bibentry{pub2}}}
+\newline
+\vspace{10mm}
+\ecvitem{}{
+\begin{minipage}[t]{1\linewidth}
+\textbf{Interessi personali}\\
+Lettura; pratica del ciclismo e del podismo.
+\end{minipage}
+}
+\ecvitem{Firma}{\small \emph{Ai sensi del D. Lgs. 196 del 30/6/2003, autorizzo al trattamento dei miei dati personali per le vostre esigenze di selezione e comunicazione e dichiaro di essere informato dei diritti di cui l'articolo 13 a me spettanti} \par }
+
+\end{europecv}
+
+
+\end{document} 
