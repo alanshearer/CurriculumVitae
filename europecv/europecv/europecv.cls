@@ -347,6 +347,8 @@
 \newcommand*{\ecvnationality}[1]{\def\ecv@nationality{#1}}
 \newcommand*{\ecvdateofbirth}[1]{\def\ecv@birth{#1}}
 \newcommand*{\ecvgender}[1]{\def\ecv@gender{#1}}
+\newcommand*{\ecvskype}[1]{\def\ecv@skype{#1}}
+\newcommand*{\ecvgithub}[1]{\def\ecv@github{#1}}
 % Personal picture
 \newcommand*{\ecvdrawpicture}{}
 \newcommand*{\ecvbeforepicture}[1]{\def\ecv@beforepic{#1}}
@@ -369,12 +371,14 @@
 \ecvfootername{\ecv@name}
 \ecvaddress{}
 \ecvtelephone{}
+\ecvskype{}
 \ecvfax{}
 \ecvemail{}
 \ecvnationality{}
 \ecvdateofbirth{}
 \ecvgender{}
 \ecvpicture{}
+\ecvgithub{}
 
 \providecommand{\ecvpersonalinfo}[1][0pt]{%
 & \tabularnewline

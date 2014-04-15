@@ -13,6 +13,8 @@
 \def\ecv@nationalitykey{\ecv@utf{Nazionalit\`a}}
 \def\ecv@birthkey{\ecv@utf{Data di nascita}}
 \def\ecv@genderkey{\ecv@utf{Sesso}}
+\def\ecv@skypekey{\ecv@utf{Skype username}}
+\def\ecv@githubkey{\ecv@utf{Github Username}}
 % Footer
 \def\ecv@pagekey{\ecv@utf{Pagina}}
 \def\ecv@cvofkey{\ecv@utf{Curriculum vit\ae\ di}}

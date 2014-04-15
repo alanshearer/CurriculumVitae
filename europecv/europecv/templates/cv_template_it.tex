@@ -9,16 +9,47 @@
 
 \renewcommand{\ttdefault}{phv} % Uses Helvetica instead of fixed width font
 
+\makeatletter
+\def\ecv@namekey{\ecv@utf{Cognome e nome}}
+\def\ecv@addresskey{\ecv@utf{Indirizzo}}
+\def\ecv@telkey{\ecv@utf{Telefono}}
+
+\def\ecv@skypekey{\ecv@utf{Username Skype}}
+\def\ecv@githubkey{\ecv@utf{Account Github}}
+
+
+
+
+\newcommand*{\ecvskype}[1]{\def\ecv@skype{#1}}
+\newcommand*{\ecvgithub}[1]{\def\ecv@github{#1}}
+
+\ecvskype{}
+\ecvgithub{}
+
+\providecommand{\ecvpersonalinfocomplete}[1][0pt]{%
+
+\ecvpersonalinfo[7pt]
+
+\ifx\@empty\ecv@skype\else
+\ecv@skypekey       &\ecv@skype \tabularnewline[5pt]
+\fi
+\ifx\@empty\ecv@github\else
+\ecv@githubkey       &\ecv@github \tabularnewline[#1]
+\fi
+}
+\makeatother
 
 \ecvname{Bencivenga Enrico}
 %\ecvfootername{Nome/i Cognome/i}
 \ecvaddress{Via Cucca 106, 80031 Brusciano (Napoli)}
 \ecvtelephone[]{+393289196064}
+\ecvskype{enrico\_bencivenga}
 %\ecvfax{Facoltativo}
 \ecvemail{\url{enrico.bencivenga@hotmail.it}}
 \ecvnationality{Italiana}
 \ecvdateofbirth{13/04/1983}
 \ecvgender{Maschile}
+\ecvgithub{alanshearer}
 %\ecvpicture[width=3cm]{mypicture}
 \ecvfootnote{Per ulteriori informazioni: \url{http://europass.cedefop.eu.int}\\
 \textcopyright~European Communities, 2003.}
@@ -29,7 +60,8 @@
 
 
 \begin{europecv}
-\ecvpersonalinfo[30pt]
+\ecvpersonalinfocomplete[30pt]
+
 %\ecvitem{Contatto Skype}{enrico_bencivenga}
 %\ecvitem{Account Github}{\textbf{https://github.com/alanshearer}
 
@@ -52,6 +84,22 @@ Sviluppo di:
 \vspace{-3mm}\item[]Applicazioni Web Asp.NET MVC4 e MVC5;
 \vspace{-3mm}\item[]Interfacce utente.
 \end{itemize}
+\end{minipage}
+}
+\ecvitem{Strumenti utilizzati}{
+\begin{minipage}[t]{1\linewidth}
+Microsoft Visual Studio 2013 Ultimate;\\
+ASP.NET MVC 4, 5;\\
+SQL;\\
+XML;\\
+WCF;\\
+IIS 6, 7, 7.5;\\
+SQL Server 2010, 2012;\\
+HTML, CSS, Javascript, Jquery;\\
+Entity Framework;\\
+Unity;\\
+Windows Azure;\\
+TFS Online.
 \end{minipage}
 }
 \ecvitem{Nome e indirizzo del datore di lavoro}{Ancitel S.p.A., Via Vicinale Santa Maria del Pianto 80143 Napoli}
