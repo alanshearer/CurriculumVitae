@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=latex 2014.1.28)  15 APR 2014 15:08
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=latex 2014.1.28)  15 APR 2014 15:13
 entering extended mode
 **cv_template_it.tex
 
@@ -305,27 +305,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 74--74
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 136.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 137.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 246--246
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
 
  []
 
 
-Overfull \hbox (2.11998pt too wide) in paragraph at lines 246--247
+Overfull \hbox (2.11998pt too wide) in paragraph at lines 247--248
 []| []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 264--264
+Underfull \hbox (badness 10000) in paragraph at lines 265--265
 
  []
 
@@ -333,7 +333,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 264--264
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 271.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 272.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
@@ -342,7 +342,7 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 271.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 272.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
@@ -396,23 +396,23 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 274.
+(Font)              <8> on input line 275.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 274.
+(Font)              <6> on input line 275.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 274.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 275.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
-Underfull \hbox (badness 10000) in paragraph at lines 385--385
+Underfull \hbox (badness 10000) in paragraph at lines 386--386
 
  []
 
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 414.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 415.
 
-Underfull \hbox (badness 10000) in paragraph at lines 414--414
+Underfull \hbox (badness 10000) in paragraph at lines 415--415
 
  []
 
@@ -422,14 +422,14 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 416.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 417.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsphv.fd"
 File: omsphv.fd 
 )
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 416.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 417.
  [1.1
 
 ]
@@ -474,4 +474,4 @@ Here is how much of TeX's memory you used:
  841 hyphenation exceptions out of 8191
  33i,23n,45p,371b,787s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on cv_template_it.dvi (6 pages, 17324 bytes).
+Output written on cv_template_it.dvi (6 pages, 17388 bytes).
