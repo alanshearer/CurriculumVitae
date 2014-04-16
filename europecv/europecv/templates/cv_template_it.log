@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=latex 2014.1.28)  15 APR 2014 15:47
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=latex 2014.1.28)  16 APR 2014 16:33
 entering extended mode
 **cv_template_it.tex
 
@@ -419,6 +419,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 415--415
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <8> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 417.
+
+
+LaTeX Warning: Reference `TotPages' on page 1 undefined on input line 417.
+
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
@@ -436,42 +442,64 @@ LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <8> not available
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
+
+LaTeX Warning: Reference `TotPages' on page 2 undefined on input line 417.
+
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ) [2.2]
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
+
+LaTeX Warning: Reference `TotPages' on page 3 undefined on input line 417.
+
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ) [3.3]
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
+
+LaTeX Warning: Reference `TotPages' on page 4 undefined on input line 417.
+
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ) [4.4]
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
+
+LaTeX Warning: Reference `TotPages' on page 5 undefined on input line 417.
+
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ) [5.5]
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
+
+LaTeX Warning: Reference `TotPages' on page 6 undefined on input line 420.
+
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ) [6.6]
 (C:\Users\Ancitel\Documents\GitHub\CurriculumVitae\europecv\europecv\templates\
-cv_template_it.aux) ) 
-Here is how much of TeX's memory you used:
- 3407 strings out of 493922
- 47938 string characters out of 3144893
- 142636 words of memory out of 3000000
- 6568 multiletter control sequences out of 15000+200000
- 30473 words of font info for 35 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 33i,23n,45p,371b,787s stack positions out of 5000i,500n,10000p,200000b,50000s
+cv_template_it.aux)
 
-Output written on cv_template_it.dvi (6 pages, 17388 bytes).
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3409 strings out of 493922
+ 47963 string characters out of 3144893
+ 142636 words of memory out of 3000000
+ 6570 multiletter control sequences out of 15000+200000
+ 32106 words of font info for 36 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 38i,23n,45p,371b,789s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on cv_template_it.dvi (6 pages, 17480 bytes).
