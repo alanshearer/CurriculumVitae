@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=latex 2014.1.28)  9 JUN 2014 11:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=latex 2014.1.28)  11 JUN 2014 14:36
 entering extended mode
 **cv_template_it.tex
 
@@ -260,9 +260,12 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 62.
+File: images/fototessera.eps Graphic file (type eps)
+ <images/fototessera.eps>
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 63.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
@@ -470,12 +473,12 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 (C:\Users\Ancitel\Documents\GitHub\CurriculumVitae\europecv\europecv\templates\
 cv_template_it.aux) ) 
 Here is how much of TeX's memory you used:
- 3407 strings out of 493922
- 47938 string characters out of 3144893
+ 3410 strings out of 493922
+ 47982 string characters out of 3144893
  144636 words of memory out of 3000000
- 6568 multiletter control sequences out of 15000+200000
+ 6569 multiletter control sequences out of 15000+200000
  30473 words of font info for 35 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  33i,23n,45p,371b,787s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on cv_template_it.dvi (6 pages, 18160 bytes).
+Output written on cv_template_it.dvi (6 pages, 18272 bytes).
