@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.11)  11 JUN 2014 21:27
+=======
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=latex 2014.1.28)  11 JUN 2014 14:36
+>>>>>>> 7cdadc2c2b200580093c458e4395abcb0625e1e5
 entering extended mode
 **cv_template_it.tex
 
@@ -285,6 +289,7 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 62.
+<<<<<<< HEAD
 
 <images/fototessera2.png, id=2, 739.76375pt x 677.53125pt>
 File: images/fototessera2.png Graphic file (type png)
@@ -292,6 +297,10 @@ File: images/fototessera2.png Graphic file (type png)
 <use images/fototessera2.png>
 Package pdftex.def Info: images/fototessera2.png used on input line 63.
 (pdftex.def)             Requested size: 85.35826pt x 78.16774pt.
+=======
+File: images/fototessera.eps Graphic file (type eps)
+ <images/fototessera.eps>
+>>>>>>> 7cdadc2c2b200580093c458e4395abcb0625e1e5
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 63.
 
@@ -505,11 +514,19 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 (C:\Users\Enrico\Documents\GitHub\CurriculumVitae\europecv\europecv\templates\c
 v_template_it.aux) ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  4012 strings out of 493921
  56340 string characters out of 3144873
  154893 words of memory out of 3000000
  7145 multiletter control sequences out of 15000+200000
  45556 words of font info for 48 fonts, out of 3000000 for 9000
+=======
+ 3410 strings out of 493922
+ 47982 string characters out of 3144893
+ 144636 words of memory out of 3000000
+ 6569 multiletter control sequences out of 15000+200000
+ 30473 words of font info for 35 fonts, out of 3000000 for 9000
+>>>>>>> 7cdadc2c2b200580093c458e4395abcb0625e1e5
  841 hyphenation exceptions out of 8191
  33i,23n,45p,371b,787s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname
@@ -523,3 +540,7 @@ PDF statistics:
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
+<<<<<<< HEAD
+=======
+Output written on cv_template_it.dvi (6 pages, 18272 bytes).
+>>>>>>> 7cdadc2c2b200580093c458e4395abcb0625e1e5
