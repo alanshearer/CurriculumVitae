@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.11)  11 JUN 2014 21:27
-=======
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=latex 2014.1.28)  11 JUN 2014 14:36
->>>>>>> 7cdadc2c2b200580093c458e4395abcb0625e1e5
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.11)  15 JUN 2014 20:54
 entering extended mode
 **cv_template_it.tex
 
@@ -211,19 +207,19 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 (C:\Users\Enrico\Documents\GitHub\CurriculumVitae\europecv\europecv\templates\c
 v_template_it.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 58.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 59.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
@@ -281,28 +277,16 @@ ABD: EveryShipout initializing macros
 <europasslogo.pdf, id=1, 4271.96pt x 2360.82pt>
 File: europasslogo.pdf Graphic file (type pdf)
  <use europasslogo.pdf>
-Package pdftex.def Info: europasslogo.pdf used on input line 62.
+Package pdftex.def Info: europasslogo.pdf used on input line 63.
 (pdftex.def)             Requested size: 65.44142pt x 36.13123pt.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 62.
-<<<<<<< HEAD
-
-<images/fototessera2.png, id=2, 739.76375pt x 677.53125pt>
-File: images/fototessera2.png Graphic file (type png)
-
-<use images/fototessera2.png>
-Package pdftex.def Info: images/fototessera2.png used on input line 63.
-(pdftex.def)             Requested size: 85.35826pt x 78.16774pt.
-=======
-File: images/fototessera.eps Graphic file (type eps)
- <images/fototessera.eps>
->>>>>>> 7cdadc2c2b200580093c458e4395abcb0625e1e5
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 63.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 67.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
@@ -320,9 +304,9 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 63.
+(Font)              <7> on input line 67.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 63.
+(Font)              <5> on input line 67.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
@@ -339,14 +323,14 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
 
  []
 
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 127.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 131.
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--139
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
 
  []
 
@@ -354,27 +338,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 139--139
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 159.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 163.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-Underfull \hbox (badness 10000) in paragraph at lines 250--250
+Underfull \hbox (badness 10000) in paragraph at lines 257--257
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 269--269
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
 
  []
 
 
-Overfull \hbox (2.11998pt too wide) in paragraph at lines 269--270
+Overfull \hbox (2.11998pt too wide) in paragraph at lines 276--277
 []| []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
 
  []
 
@@ -382,7 +366,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 287--287
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 294.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 301.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
@@ -442,23 +426,16 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 297.
+(Font)              <8> on input line 304.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 297.
+(Font)              <6> on input line 304.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 297.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 304.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
-Underfull \hbox (badness 10000) in paragraph at lines 408--408
-
- []
-
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 437.
-
-Underfull \hbox (badness 10000) in paragraph at lines 437--437
+Underfull \hbox (badness 10000) in paragraph at lines 419--419
 
  []
 
@@ -468,19 +445,25 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 439.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 423.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsphv.fd"
 File: omsphv.fd 
 )
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 439.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 423.
  [1.1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Program Files (x86)/Mi
-KTeX 2.9/tex/latex/europecv/europasslogo.pdf> <C:/Users/Enrico/Documents/GitHub
-/CurriculumVitae/europecv/europecv/templates/images/fototessera2.png>]
+KTeX 2.9/tex/latex/europecv/europasslogo.pdf>]
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 448.
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--448
+
+ []
+
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
@@ -505,42 +488,24 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ) [5.5]
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
-File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
-File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-) [6.6]
 (C:\Users\Enrico\Documents\GitHub\CurriculumVitae\europecv\europecv\templates\c
 v_template_it.aux) ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 4012 strings out of 493921
- 56340 string characters out of 3144873
- 154893 words of memory out of 3000000
- 7145 multiletter control sequences out of 15000+200000
+ 4002 strings out of 493921
+ 55978 string characters out of 3144873
+ 153457 words of memory out of 3000000
+ 7141 multiletter control sequences out of 15000+200000
  45556 words of font info for 48 fonts, out of 3000000 for 9000
-=======
- 3410 strings out of 493922
- 47982 string characters out of 3144893
- 144636 words of memory out of 3000000
- 6569 multiletter control sequences out of 15000+200000
- 30473 words of font info for 35 fonts, out of 3000000 for 9000
->>>>>>> 7cdadc2c2b200580093c458e4395abcb0625e1e5
  841 hyphenation exceptions out of 8191
- 33i,23n,45p,371b,787s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 32i,23n,45p,371b,787s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname
 /8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8
 .pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program
  Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on cv_template_it.pdf (6 pages, 560440 bytes).
+Output written on cv_template_it.pdf (5 pages, 84869 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
+ 38 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-<<<<<<< HEAD
-=======
-Output written on cv_template_it.dvi (6 pages, 18272 bytes).
->>>>>>> 7cdadc2c2b200580093c458e4395abcb0625e1e5
